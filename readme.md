@@ -55,6 +55,18 @@ After building the project, you can run the compiled application with:
 pnpm start
 ```
 
+## Template Included
+
+```
+ .
+├──  dist
+├──  src
+│   └──  index.ts
+├──  package.json
+├──  tsconfig.json
+└──  readme.md
+```
+
 ## Customization
 
 - **TypeScript Configuration:** Modify the `tsconfig.json` file to adjust compiler options, include/exclude files, or change the output directory as needed.
