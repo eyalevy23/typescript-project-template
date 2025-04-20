@@ -59,12 +59,12 @@ pnpm start
 
 ```
 .
-├── dist/
-├── src/
-│   └── index.ts
-├── package.json
-├── tsconfig.json
-└── readme.md
+├── 📁 dist
+├── 📁 src
+│   └── 📄 index.ts
+├── 📄 package.json
+├── 📄 tsconfig.json
+└── 📄 readme.md
 ```
 
 ## Customization
