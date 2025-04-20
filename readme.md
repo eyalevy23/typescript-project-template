@@ -77,20 +77,8 @@ pnpm start
 
 This template is provided under the ISC License. Please refer to the [LICENSE](./LICENSE) file for more details.
 
-## Contributing
-
-Feel free to fork this repository and submit pull requests if you have improvements or additional features that could benefit future projects.
-
 ## Future Projects
 
 When starting a new TypeScript project, use this repository as a baseline. Simply clone it and update the project details (such as the `name`, `description`, and `author`) in the `package.json` and `README.md` files to reflect your new project.
 
 Happy coding!
-
-```
-
----
-
-This **README.md** provides a clear guide for cloning the template, installing dependencies, and running or building the project, along with tips on how to customize the template for future projects. Enjoy using this template as a foundation for your next TypeScript project!
-
-```
