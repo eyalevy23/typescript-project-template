@@ -1,6 +1,6 @@
-````markdown
 # TypeScript Project Template
 
+```markdown
 Welcome to the TypeScript Project Template!
 
 This repository serves as a starting point for future TypeScript projects. It is configured with best practices and includes tools to help you quickly set up and run your project with minimal configuration.
@@ -14,14 +14,14 @@ This repository serves as a starting point for future TypeScript projects. It is
 ## Getting Started
 
 Follow the steps below to use this template for your new TypeScript project:
+```
 
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url> my-new-project
+git clone https://github.com/eyalevy23/typescript-project-template.git
 cd my-new-project
 ```
-````
 
 ### 2. Install Dependencies
 
