@@ -1,0 +1,19 @@
+node_modules# dependencies
+node_modules/
+
+# compiled output
+dist/
+
+# logs
+npm-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor folders
+.vscode/
+.idea/
+
+# environment files
+.env
